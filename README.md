@@ -1,7 +1,9 @@
 SHOOT OR DIE
+
 Shoot or Die is an arcade-style 2D shooter game developed using Pygame. In this game, you control a plane to avoid enemy missiles and shoot them down before they hit you. Your health decreases if you are hit by enemies, and your goal is to survive as long as possible.
 
 GAMEPLAY
+
 The game starts with a menu screen. Press SPACE to start the game.
 Control a plane that shoots bullets to destroy incoming enemy missiles.
 The game features a health bar, and each time an enemy hits your plane, you lose health.
