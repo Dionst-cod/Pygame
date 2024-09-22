@@ -11,6 +11,7 @@ The game ends when your health reaches zero, at which point you return to the st
 
 
 CONTROLS
+
 W: Move the plane up.
 S: Move the plane down.
 SPACE: Shoot bullets.
@@ -18,6 +19,7 @@ ESC: Quit the game.
 
 
 ASSESTS
+
 - Images:
 
 - plane.png: The player's plane.
@@ -33,12 +35,15 @@ Sounds:
 - shootsound.mp3: The sound of bullets being fired.
 
 SOUND EFFECTS
+
 The game features background music in the start menu and sound effects when bullets are fired. Ensure that the sounds folder is correctly placed in the project directory.
 
 LICENCE
+
 This project is open source. Feel free to modify and share it as you like!
 
 NOTES:
+
 Make sure the assets (images and sounds) are stored in the respective folders (images/ and sounds/) as the game loads them dynamically.
 The health bar is displayed on the top-left of the screen and decreases as your plane gets hit.
 The game has a simple wave-based enemy spawn system, increasing the challenge over time.
